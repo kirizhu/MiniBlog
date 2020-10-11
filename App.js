@@ -6,7 +6,7 @@ import IndexScreen from './src/screens/IndexScreen';
 import ShowScreen from './src/screens/ShowScreen';
 import CreateScreen from './src/screens/CreateScreen';
 import EditScreen from './src/screens/EditScreen';
-
+import { BlogProvider } from './src/context/BlogContext';
 const Stack = createStackNavigator();
 
 function App() {
@@ -41,4 +41,10 @@ function App() {
   );
 }
 
-export default App;
+export default () => {
+  return (
+    <BlogProvider>
+      <App />
+    </BlogProvider>
+  );
+};
