@@ -21,6 +21,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Blog application working with a json-server through the ngrok library",
+    "githubUrl": "https://github.com/kirizhu/MiniBlog"
   }
 }
