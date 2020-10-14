@@ -8,9 +8,7 @@ Read blog posts individually or from a list,
 Update old blog posts and
 Delete them as well.
 
-![Alt text](assets/sc1.jpg?raw=true 'Index Screen')![Alt text](assets/sc2.jpg?raw=true 'Show Screen')
-
-![Alt text](assets/sc3.jpg?raw=true 'Create Screen')![Alt text](assets/sc4.jpg?raw=true 'Edit Screen')
+![Alt text](assets/sc1.jpg?raw=true 'Index Screen')![Alt text](assets/sc2.jpg?raw=true 'Show Screen')![Alt text](assets/sc3.jpg?raw=true 'Create Screen')![Alt text](assets/sc4.jpg?raw=true 'Edit Screen')
 
 To use the application follow below steps
 
